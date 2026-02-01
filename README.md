@@ -80,6 +80,11 @@
 ## 📕 &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How DevSecOps Fits Into the Software Development Lifecycle](https://medium.com/@Better-Great/how-devsecops-fits-into-the-software-development-lifecycle-0e20cf098e93?source=rss-8abaaeaae8da------2)
+- [AUTOMATING USER ADMINISTRATION: BASH SCRIPT FOR BULK USER AND GROUP MANAGEMENT](https://medium.com/@Better-Great/automating-user-administration-bash-script-for-bulk-user-and-group-management-2daaab486ed6?source=rss-8abaaeaae8da------2)
+- [Weekly Review: Getting Conversant with Terraform and Google Cloud](https://medium.com/@Better-Great/weekly-review-getting-conversant-with-terraform-and-google-cloud-2f8e8c4e884b?source=rss-8abaaeaae8da------2)
+- [Understanding Terraform: A Comprehensive Guide to Infrastructure as Code and Easy Installation on…](https://medium.com/@Better-Great/understanding-terraform-a-comprehensive-guide-to-infrastructure-as-code-and-easy-installation-on-a461a060abb5?source=rss-8abaaeaae8da------2)
+- [How to Create an Admin User on AWS and Set Up Access Keys and Account Alias](https://medium.com/@Better-Great/how-to-create-an-admin-user-on-aws-and-set-up-access-keys-and-account-alias-27234f1b0154?source=rss-8abaaeaae8da------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
