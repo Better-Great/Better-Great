@@ -80,11 +80,11 @@
 ## 📕 &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://medium.com/@Better-Great/what-is-infrastructure-as-code-and-why-its-transforming-devops-c564f68ab1e6?source=rss-8abaaeaae8da------2)
 - [How to Install Docker and Store Its Data on a Separate Disk &lpar;And Why You Should&rpar;](https://medium.com/@Better-Great/how-to-install-docker-and-store-its-data-on-a-separate-disk-and-why-you-should-58bdc9273f5a?source=rss-8abaaeaae8da------2)
 - [How DevSecOps Fits Into the Software Development Lifecycle](https://medium.com/@Better-Great/how-devsecops-fits-into-the-software-development-lifecycle-0e20cf098e93?source=rss-8abaaeaae8da------2)
 - [AUTOMATING USER ADMINISTRATION: BASH SCRIPT FOR BULK USER AND GROUP MANAGEMENT](https://medium.com/@Better-Great/automating-user-administration-bash-script-for-bulk-user-and-group-management-2daaab486ed6?source=rss-8abaaeaae8da------2)
 - [Weekly Review: Getting Conversant with Terraform and Google Cloud](https://medium.com/@Better-Great/weekly-review-getting-conversant-with-terraform-and-google-cloud-2f8e8c4e884b?source=rss-8abaaeaae8da------2)
-- [Understanding Terraform: A Comprehensive Guide to Infrastructure as Code and Easy Installation on…](https://medium.com/@Better-Great/understanding-terraform-a-comprehensive-guide-to-infrastructure-as-code-and-easy-installation-on-a461a060abb5?source=rss-8abaaeaae8da------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
