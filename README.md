@@ -80,11 +80,11 @@
 ## 📕 &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 3 — How I Deployed a Single Server and a Nginx Web Server on AWS Using Terraform](https://medium.com/@Better-Great/day-3-how-i-deployed-a-single-server-and-a-nginx-web-server-on-aws-using-terraform-7190fafbc775?source=rss-8abaaeaae8da------2)
+- [Day 2 — Is Your Terraform Environment Actually Ready? Run These 4 Commands and Find Out](https://medium.com/@Better-Great/day-2-is-your-terraform-environment-actually-ready-run-these-4-commands-and-find-out-7de027776b76?source=rss-8abaaeaae8da------2)
 - [What is Infrastructure as Code and Why It’s Transforming DevOps](https://medium.com/@Better-Great/what-is-infrastructure-as-code-and-why-its-transforming-devops-c564f68ab1e6?source=rss-8abaaeaae8da------2)
 - [How to Install Docker and Store Its Data on a Separate Disk &lpar;And Why You Should&rpar;](https://medium.com/@Better-Great/how-to-install-docker-and-store-its-data-on-a-separate-disk-and-why-you-should-58bdc9273f5a?source=rss-8abaaeaae8da------2)
 - [How DevSecOps Fits Into the Software Development Lifecycle](https://medium.com/@Better-Great/how-devsecops-fits-into-the-software-development-lifecycle-0e20cf098e93?source=rss-8abaaeaae8da------2)
-- [AUTOMATING USER ADMINISTRATION: BASH SCRIPT FOR BULK USER AND GROUP MANAGEMENT](https://medium.com/@Better-Great/automating-user-administration-bash-script-for-bulk-user-and-group-management-2daaab486ed6?source=rss-8abaaeaae8da------2)
-- [Weekly Review: Getting Conversant with Terraform and Google Cloud](https://medium.com/@Better-Great/weekly-review-getting-conversant-with-terraform-and-google-cloud-2f8e8c4e884b?source=rss-8abaaeaae8da------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
