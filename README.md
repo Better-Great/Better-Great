@@ -80,11 +80,11 @@
 ## 📕 &nbsp; Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Suffering Is Over. Now What?](https://medium.com/@Better-Great/suffering-is-over-now-what-ecdf53be5775?source=rss-8abaaeaae8da------2)
 - [Day 5 — I Broke My Terraform State File on Purpose. Here Is What I Learned.](https://medium.com/@Better-Great/day-5-i-broke-my-terraform-state-file-on-purpose-here-is-what-i-learned-38c6b8874a99?source=rss-8abaaeaae8da------2)
 - [Day 4 — Clustered Nginx on AWS With an Auto Scaling Group and Application Load Balancer](https://medium.com/@Better-Great/day-4-clustered-nginx-on-aws-with-an-auto-scaling-group-and-application-load-balancer-c3f7496550bd?source=rss-8abaaeaae8da------2)
 - [Day 3 — How I Deployed a Single Server and a Nginx Web Server on AWS Using Terraform](https://medium.com/@Better-Great/day-3-how-i-deployed-a-single-server-and-a-nginx-web-server-on-aws-using-terraform-7190fafbc775?source=rss-8abaaeaae8da------2)
 - [Day 2 — Is Your Terraform Environment Actually Ready? Run These 4 Commands and Find Out](https://medium.com/@Better-Great/day-2-is-your-terraform-environment-actually-ready-run-these-4-commands-and-find-out-7de027776b76?source=rss-8abaaeaae8da------2)
-- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://medium.com/@Better-Great/what-is-infrastructure-as-code-and-why-its-transforming-devops-c564f68ab1e6?source=rss-8abaaeaae8da------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
